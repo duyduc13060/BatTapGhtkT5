@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BtvnGhtk:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>BtvnGhtk</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ghtk-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="BtvnGhtk:war exploded" />
+    </root>
+  </artifact>
+</component>
